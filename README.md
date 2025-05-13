@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/7m7l4vc5nch03hb9?svg=true)](https://ci.appveyor.com/project/aldobrynin/cleanbinandobj)
 
 
-Download this extension from the [VS Gallery](#)
+Download this extension from the [###](#)
 
 ---------------------------------------
 
